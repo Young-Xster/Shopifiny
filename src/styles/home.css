@@ -1,0 +1,55 @@
+.cnt {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+  gap: 1.2rem;
+}
+
+.gr {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+  gap: 1.2rem;
+}
+
+.txt {
+  padding-top: 0.4rem;
+  display: inline-block;
+  width: 350px;
+  height: 2rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  color: #000;
+  background-color: rgb(223, 223, 223);
+  text-align: center;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.gr a {
+  text-decoration: none;
+}
+
+.brd {
+  border-radius: 10px;
+}
+
+.bxshad {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.bttn {
+  padding: 15px;
+  font-size: 1rem;
+  font-weight: 600;
+  border: none;
+  color: white;
+  border-radius: 10px;
+  margin-top: 2rem;
+}
